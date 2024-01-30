@@ -5,4 +5,4 @@ Eis alguns laboratórios para você testar suas habilidades em resolver problema
 
 Todas as respostas serão publicadas no meu canal do Youtube: https://www.youtube.com/@luizmuroslimanetwork
 
-Se esse conteúdo foi de aluma forma útil pra você considere se inscrever no canal. Seria muito bom contar com seu apoio!!!
+Se esse conteúdo foi de alguma forma útil pra você considere se inscrever no canal. Seria muito bom contar com seu apoio!!!
