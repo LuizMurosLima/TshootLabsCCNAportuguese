@@ -1,2 +1,2 @@
-# TshootLabsCCNAportuguese
- Laboratórios de troubleshooting CCNA
+# TshootLABSportuguese
+ Laboratorios de troubleshooting (CCNA)
